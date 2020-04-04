@@ -1,7 +1,5 @@
 # JSXBIN encoder (Atom package)
 
-![APM](https://img.shields.io/apm/dm/jsxbin-encoder?style=for-the-badge)![GitHub All Releases](https://img.shields.io/github/downloads/alexmunteanu/jsxbin-encoder/total?style=for-the-badge)![APM](https://img.shields.io/apm/l/jsxbin-encoder?style=for-the-badge)
-
 Atom package for encoding the selected code to evaluated JSXBIN.<br>
 Uses **@esdebug** module from [ExtendScript Debugger](https://marketplace.visualstudio.com/items?itemName=Adobe.extendscript-debug).
 
