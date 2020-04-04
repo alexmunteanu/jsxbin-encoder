@@ -3,7 +3,7 @@
 Atom package for encoding the selected code to evaluated JSXBIN.<br>
 Uses **@esdebug** module from [ExtendScript Debugger](https://marketplace.visualstudio.com/items?itemName=Adobe.extendscript-debug).
 
-![A screenshot of your package](https://github.com/alexmunteanu/jsxbin-encoder/blob/master/images/JSXBIN_encoder.gif?raw=true)
+![jsxbin-encoder](https://github.com/alexmunteanu/jsxbin-encoder/blob/master/images/JSXBIN_encoder.gif?raw=true)
 
 ## Installation
 - ### From **Atom**
