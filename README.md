@@ -1,4 +1,6 @@
 # JSXBIN encoder (Atom package)
+**Alex White**'s VSCode extension: [axwt/texttojsxbin](https://github.com/axwt/texttojsxbin)
+
 
 Atom package for encoding the selected code to evaluated JSXBIN.<br>
 Uses **@esdebug** module from [ExtendScript Debugger](https://marketplace.visualstudio.com/items?itemName=Adobe.extendscript-debug).
