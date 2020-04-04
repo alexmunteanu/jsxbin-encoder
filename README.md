@@ -11,6 +11,7 @@ Uses **@esdebug** module from [ExtendScript Debugger](https://marketplace.visual
 - ### From **Atom**
   - `Settings` > `Install` > Search packages for `jsxbin-encoder`
   - Click `Install` and then `reload` Atom.
+  - [Package page](https://atom.io/packages/jsxbin-encoder)
 - ### From **GitHub**
   - Download the repository and extract `JSXBIN_encoder-master.zip`.
   - Copy `JSXBIN_encoder-master` folder to `/users/YOUR_USERNAME/.atom/packages`
