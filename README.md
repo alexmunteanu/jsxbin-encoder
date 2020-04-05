@@ -1,5 +1,5 @@
 # JSXBIN encoder (Atom package)
-For VSCode see **Alex White**'s extension: [axwt/texttojsxbin](https://github.com/axwt/texttojsxbin)
+For VSCode see **Alex White**'s TextToJSXBIN extension: [axwt/texttojsxbin](https://github.com/axwt/texttojsxbin)
 
 
 Atom package for encoding the selected code to evaluated JSXBIN.<br>
