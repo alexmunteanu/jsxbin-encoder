@@ -1,0 +1,45 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Encode to JSXBIN",
+        "command": "jsxbin-encoder:encode"
+      },
+      {
+        "label": "JS block comment",
+        "command": "jsxbin-encoder:comment_block"
+      },
+      {
+        "label": "JS block uncomment",
+        "command": "jsxbin-encoder:uncomment_block"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "JSXBIN Encoder",
+          "submenu": [
+            {
+              "label": "Encode to JSXBIN",
+              "command": "jsxbin-encoder:encode"
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "label": "JS block comment",
+              "command": "jsxbin-encoder:comment_block"
+            },
+            {
+              "label": "JS block uncomment",
+              "command": "jsxbin-encoder:uncomment_block"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
