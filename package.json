@@ -1,7 +1,7 @@
 {
   "name": "jsxbin-encoder",
   "main": "./lib/jsxbin-encoder",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Atom package for encoding the selected code to evaluated JSXBIN.",
   "keywords": [
     "jsxbin",
