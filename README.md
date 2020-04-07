@@ -1,5 +1,5 @@
 # JSXBIN encoder (Atom package)
-For VSCode see **Alex White**'s TextToJSXBIN extension: [axwt/texttojsxbin](https://github.com/axwt/texttojsxbin)
+For [VSCode](https://code.visualstudio.com), see [**Alex White**](https://github.com/axwt)'s [TextToJSXBIN](https://github.com/axwt/texttojsxbin) extension.
 
 
 Atom package for encoding the selected code to evaluated JSXBIN.<br>
@@ -8,6 +8,8 @@ Uses **@esdebug** module from [ExtendScript Debugger](https://marketplace.visual
 ![jsxbin-encoder](https://github.com/alexmunteanu/jsxbin-encoder/blob/master/images/JSXBIN_encoder.gif?raw=true)
 
 ## Installation
+- ### Via **apm**
+  - `apm install jsxbin-encoder`
 - ### From **Atom**
   - `Settings` > `Install` > Search packages for `jsxbin-encoder`
   - Click `Install` and then `reload` Atom.
@@ -16,7 +18,7 @@ Uses **@esdebug** module from [ExtendScript Debugger](https://marketplace.visual
   - Copy `JSXBIN_encoder-master` folder to `/users/YOUR_USERNAME/.atom/packages`
 
 ## Usage
-- Select a portion of you JS code.
+- Select a portion of your JS code.
 - Then do one of the following:
   - Press `Ctrl + Alt + Q` on **Windows** or `Cmd + Alt + Q` on **Mac**.
   - Right click and choose `Encode to JSXBIN`.
@@ -34,6 +36,3 @@ Uses **@esdebug** module from [ExtendScript Debugger](https://marketplace.visual
 - `JS block uncomment`:
   - description: uncomments the selected block comment.
   - keyboard shortcut: `Alt + X`
-
-## Issues
-- None (so far)

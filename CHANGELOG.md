@@ -1,7 +1,7 @@
-## v1.0.4 - 2020-04-06
-### Fixed:
-- `path is not defined`
+## v1.1.0 - 2020-04-07
 
 ### Changed:
-- improved utilities
-- minor code cleanup
+- corrected indentation of the commented section
+- corrected indentation of the line with the `eval` method
+- improved block comment utilities
+- removed `path` module dependency
