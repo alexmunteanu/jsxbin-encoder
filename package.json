@@ -1,0 +1,28 @@
+{
+  "name": "jsxbin-encoder",
+  "main": "./lib/jsxbin-encoder",
+  "version": "0.0.0",
+  "description": "Atom package for encoding the selected code to evaluated JSXBIN.",
+  "keywords": [
+    "jsxbin",
+    "javascript",
+    "extendscript",
+    "adobe",
+    "encoder"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexmunteanu/jsxbin-encoder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexmunteanu/jsxbin-encoder/issues"
+  },
+  "homepage": "https://alexmunteanu.github.io/jsxbin-encoder",
+  "license": "MIT",
+  "author": "Alexandru Munteanu",
+  "author_homepage": "https://alexmunteanu.com",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
