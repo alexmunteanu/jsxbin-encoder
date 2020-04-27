@@ -1,7 +1,7 @@
 {
   "name": "jsxbin-encoder",
   "main": "./lib/jsxbin-encoder",
-  "version": "0.0.0",
+  "version": "1.9.3",
   "description": "Encodes the selected JSX to JSXBIN / Decodes the selected JSXBIN to JSX.",
   "keywords": [
     "js",
