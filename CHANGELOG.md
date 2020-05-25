@@ -68,16 +68,6 @@
 
 ***
 
-## v1.1.0 - 2020-04-07
-
-### Changed:
-- corrected indentation of the commented section
-- corrected indentation of the line with the `eval` method
-- improved block comment utilities
-- removed `path` module dependency
-
-***
-
 ## v1.0.4 - 2020-04-06
 
 ### Fixed:
