@@ -2,7 +2,7 @@
   "name": "jsxbin-encoder",
   "main": "./lib/jsxbin-encoder",
   "version": "0.0.0",
-  "description": "Encodes the selected JSX to JSXBIN / Decodes the selected JSXBIN to JSX.",
+  "description": "Encodes the selected JSX to JSXBIN.",
   "keywords": [
     "js",
     "jsx",
@@ -11,8 +11,6 @@
     "extendscript",
     "encoder",
     "encoding",
-    "decoder",
-    "decoding",
     "adobe",
     "after effects",
     "premiere",
@@ -33,8 +31,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "del": "^5.1.0",
-    "javascript-obfuscator": "^0.28.2",
+    "del": "^6.0.0",
+    "javascript-obfuscator": "^2.10.1",
     "temp-dir": "^2.0.0"
   },
   "deprecated": false
