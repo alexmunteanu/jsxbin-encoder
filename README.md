@@ -5,7 +5,7 @@ For [VSCode](https://code.visualstudio.com), see [VS Code Adobe Development Util
 Encodes the selected JSX to JSXBIN.
 For encoding, it uses the **@esdebug** module from [ExtendScript Debugger](https://marketplace.visualstudio.com/items?itemName=Adobe.extendscript-debug).
 
-![jsxbin-encoder demo encoding](https://github.com/alexmunteanu/jsxbin-encoder/blob/master/images/demo_encoding.gif?raw=true)
+![jsxbin-encoder demo encoding](https://raw.githubusercontent.com/alexmunteanu/jsxbin-encoder/master/images/demo_encoding.gif)
 
 ## Installation
 
