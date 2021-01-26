@@ -1,6 +1,6 @@
 # JSXBIN encoder (Atom package)
 
-For [VSCode](https://code.visualstudio.com), see [VS Code Adobe Development Utils](https://marketplace.visualstudio.com/items?itemName=AlexMunteanu.vscode-adobe-dev-utils) extension ( [GitHub](https://github.com/alexmunteanu/VS-Code-Adobe-Development-Utils) ).
+For [VSCode](https://code.visualstudio.com), see [VS Code Adobe Development Utils](https://marketplace.visualstudio.com/items?itemName=AlexMunteanu.adobe-dev-utils) extension ( [GitHub](https://github.com/alexmunteanu/VS-Code-Adobe-Development-Utils) ).
 
 Encodes the selected JSX to JSXBIN.
 For encoding, it uses the **@esdebug** module from [ExtendScript Debugger](https://marketplace.visualstudio.com/items?itemName=Adobe.extendscript-debug).
@@ -72,6 +72,6 @@ apm install jsxbin-encoder
 
 - Don't overuse it! 😎
 
-## Buy me a beer
+## Donate
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-success?style=for-the-badge&link=https://www.paypal.com/donate?hosted_button_id=Z8FGYYW9L28YC)](https://www.paypal.com/donate?hosted_button_id=Z8FGYYW9L28YC)

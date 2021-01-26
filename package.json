@@ -1,7 +1,7 @@
 {
   "name": "jsxbin-encoder",
   "main": "./lib/jsxbin-encoder",
-  "version": "1.9.10",
+  "version": "0.0.0",
   "description": "Encodes the selected JSX to JSXBIN.",
   "keywords": [
     "js",
@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "del": "^6.0.0",
-    "javascript-obfuscator": "^2.10.1",
+    "javascript-obfuscator": "^2.10.3",
     "temp-dir": "^2.0.0"
   },
   "deprecated": false

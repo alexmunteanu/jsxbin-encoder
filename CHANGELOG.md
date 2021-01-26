@@ -1,4 +1,14 @@
-## 1.9.10 (2021-01-15)
+## 1.9.11 (2021-01-26)
+
+### Changed:
+- Dependencies update.
+
+### Fixed:
+- Obfuscation errors.
+
+***
+
+## 1.9.10 (2021-01-26)
 
 ### Changed:
 - Dependencies update.
