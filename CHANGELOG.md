@@ -1,3 +1,13 @@
+## 1.9.12 (2026-06-19)
+
+### Changed:
+- Encoding errors now show the underlying reason instead of a generic "Could not encode selection" message.
+
+### Fixed:
+- macOS: "Could not encode selection" caused by the encoder frameworks never being extracted. The bundled `Frameworks.tgz` is now unpacked automatically on first use, next to the native module.
+
+***
+
 ## 1.9.11 (2021-01-26)
 
 ### Changed:
